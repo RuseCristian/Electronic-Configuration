@@ -4,8 +4,9 @@
 
 
 
-I made this script to help me with my chemistry studies
-and i decided to share it with you.
+I made this simple script to help me with my chemistry studies.
+It will output the electronic configuration based on the number of 
+electrons you input.
 
 
 # Dependencies
