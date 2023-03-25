@@ -11,3 +11,4 @@ electrons you input.
 - [Numpy](https://numpy.org/install/)
 
 
+![WindowsTerminal_pkFA7plcRY](https://user-images.githubusercontent.com/99805998/227733130-d6307e16-4341-4419-a771-6168ab745662.png)
